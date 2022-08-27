@@ -10,5 +10,6 @@ public class test {
         System.out.println("test4");
         System.out.println("test4");
         System.out.println("test4");
+        System.out.println("尝试冲突合并");
     }
 }
