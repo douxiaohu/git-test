@@ -6,5 +6,6 @@ public class test {
         System.out.println("hello github!!!!");
         System.out.println("hello giter!!!!");
         System.out.println("张磊好帅");
+        System.out.println("哈哈哈哈哈啊哈哈哈哈哈");
     }
 }
