@@ -6,10 +6,6 @@ public class test {
         System.out.println("hello git!!!!");
         System.out.println("hi!");
         System.out.println("test4");
-        System.out.println("test4");
-        System.out.println("test4");
-        System.out.println("test4");
-        System.out.println("test4");
         System.out.println("尝试冲突合并");
         System.out.println("t");
     }
