@@ -2,11 +2,8 @@ package com.douxiaohu.test;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println("git");
         System.out.println("hello git!!!!");
-        System.out.println("hi!");
-        System.out.println("test4");
-        System.out.println("尝试冲突合并");
-        System.out.println("t");
+        System.out.println("hello github!!!!");
+        System.out.println("hello giter!!!!");
     }
 }
